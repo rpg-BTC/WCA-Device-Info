@@ -4,3 +4,7 @@ Copyright WCA-OS© 2026 All Right Reserved.
 
 
 This App is a Closed Source under an EULA license.
+
+
+
+Email Report: wcareport2026@gmail.com
